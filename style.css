@@ -467,6 +467,12 @@ img.aligncenter {
 	margin-right: 40px;
 }
 
+#three-column #spacer {
+	float: left;
+	width: 27px;
+	margin-right: 0px;
+}
+
 #three-column #column2 {
 	float: left;
 	width: 300px;
