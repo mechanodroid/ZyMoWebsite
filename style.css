@@ -9,6 +9,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #000000 url(images/content_wrapper-bg.jpg) no-repeat;
+	background-size: 1200px 1118px;
 	font-family: 'Arvo', serif;
 	font-size: 14px;
 	color: #CFCFCF;
